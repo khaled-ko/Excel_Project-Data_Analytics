@@ -1,8 +1,8 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_pic](https://github.com/user-attachments/assets/e3184f4c-b1f6-4a49-b3bc-e8ff0011d026)
 
-## Introduction
+## What for?
 
 I created this dashboard to showcase insights into salary trends across various data-related job titles. This dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
 
