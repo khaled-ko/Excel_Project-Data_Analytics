@@ -1,4 +1,4 @@
-# Excel_Project-Data_Analytics
+# Excel Project-Data Analytics
  My project demonstrating my Excel skills
 
 # Excel Salary Dashboard
