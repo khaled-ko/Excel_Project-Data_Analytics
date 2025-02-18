@@ -1,5 +1,5 @@
 # Excel Project-Data Analytics
- My project demonstrating my Excel skills
+ My projects demonstrating my Excel skills
 
 # Excel Salary Dashboard
 ![1_gif](https://github.com/user-attachments/assets/243ea663-61b8-4c6e-920a-ea011a9b2010)
