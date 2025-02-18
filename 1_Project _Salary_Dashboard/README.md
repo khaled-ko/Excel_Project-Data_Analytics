@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_pic](https://github.com/user-attachments/assets/e3184f4c-b1f6-4a49-b3bc-e8ff0011d026)
+![1_gif](https://github.com/user-attachments/assets/eca2ac98-fbaa-4af3-ac79-67ae6a513657)
 
 ## What for?
 
